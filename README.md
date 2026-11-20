@@ -1,11 +1,11 @@
 # Martin Bonte
 
-Software engineering student at **Epitech Lille** (Programme Grande École), currently on exchange in **Seoul** (2026–2027).
+Software engineering student at **Epitech Lille** (Programme Grande École), currently on exchange in **Seoul** (2026–2027).<br>
 Looking for a **12-month software developer internship starting September 2027**.
 
 I like low-level and systems work (game engines, renderers, network servers, language interpreters) and building desktop application front-ends with **Qt**.
 
-**Languages:** C · C++ · Python · Haskell · C# · SQL · TypeScript/JavaScript
+**Languages:** C · C++ · Python · Haskell · C# · SQL · TypeScript/JavaScript<br>
 **Frameworks & tools:** Qt 6 / QML · SFML · raylib · CMake · Git
 
 ## Featured projects
@@ -20,4 +20,4 @@ I like low-level and systems work (game engines, renderers, network servers, lan
 
 ## Contact
 
-📫 martinbonte.pro@gmail.com · [LinkedIn](https://www.linkedin.com/in/martin-bonte-98b7522b4/)
+📫 [martinbonte.pro@gmail.com](mailto:martinbonte.pro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/martin-bonte-98b7522b4/)
